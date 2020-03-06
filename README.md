@@ -3,6 +3,7 @@
 ## 초기 환경설정
 1. java 1.8
 2. maven
+3. spring boot
 
 ## Project 실행방법
 Window - cmd or Mac - 터미널 에서 프로젝트 폴더로 이동 후
